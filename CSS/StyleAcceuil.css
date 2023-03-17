@@ -1,0 +1,29 @@
+body {
+    background-image: url(../Image/Acceuil.jpg);
+}
+
+header>nav>button>a {
+    text-decoration: none;
+    color: purple;
+    font-size: x-large;
+
+}
+
+a:hover {
+    color: blue;
+}
+
+header>h1 {
+
+    text-align: center;
+    color: red;
+    font-size: 500%;
+    font-family: 'Press Start 2P', cursive;
+}
+
+.topnav-centered a {
+    position: relative;
+    top: 0;
+    left: 0;
+    transform: none;
+}
