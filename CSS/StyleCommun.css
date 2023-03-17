@@ -11,6 +11,7 @@ h1 {
 img {
     display: block;
     margin: auto;
+
 }
 
 a {
@@ -20,4 +21,40 @@ a {
 
 p {
     color: white;
+}
+
+.lol {
+    font-family: 'Permanent Marker', cursive;
+}
+
+.CP {
+    font-family: 'Special Elite', cursive;
+}
+
+.AC {
+    font-family: 'Unica One', cursive;
+}
+
+.WOW {
+    font-family: 'Calistoga', cursive;
+}
+
+.EU4 {
+    font-family: 'Julius Sans One', sans-serif;
+}
+
+.LE {
+    font-family: 'Yatra One', cursive;
+}
+
+.Diablo {
+    font-family: 'UnifrakturMaguntia', cursive;
+}
+
+aside {
+    color: white;
+    width: 40%;
+    padding-left: 0.5rem;
+    margin-left: 0.5rem;
+    float: right;
 }
