@@ -1,3 +1,59 @@
+html {
+    box-sizing: border-box;
+}
+
+*,
+*::before,
+*::after {
+    box-sizing: inherit;
+}
+
 .Annie {
     background-image: url(../Image/Champion/Annie.jpg);
+    background-size: 100%;
+}
+
+.Aatrox {
+    background-image: url(../Image/Champion/Aatrox.jpg);
+    background-size: 100%;
+}
+
+.Ahri {
+    background-image: url(../Image/Champion/Ahri.jpg);
+    background-size: 100%;
+}
+
+.Akali {
+    background-image: url(../Image/Champion/Akali.jpg);
+    background-size: 100%;
+}
+
+.Akshan {
+    background-image: url(../Image/Champion/Akshan.jpg);
+    background-size: 100%;
+}
+
+.Alistar {
+    background-image: url(../Image/Champion/Alistar.jpg);
+    background-size: 100%;
+}
+
+.Amumu {
+    background-image: url(../Image/Champion/Amumu.jpg);
+    background-size: 100%;
+}
+
+.Anivia {
+    background-image: url(../Image/Champion/Anivia.jpg);
+    background-size: 100%;
+}
+
+.Aphelios {
+    background-image: url(../Image/Champion/aphelios.jpg);
+    background-size: 100%;
+}
+
+.Ashe {
+    background-image: url(../Image/Champion/Ashe.jpg);
+    background-size: 100%;
 }
