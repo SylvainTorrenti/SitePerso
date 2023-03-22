@@ -8,6 +8,13 @@ html {
     box-sizing: inherit;
 }
 
+h1 {
+    color: red;
+    text-align: center;
+    font-size: 10rem;
+    font-family: 'Caveat', cursive;
+}
+
 .Annie {
     background-image: url(../Image/Champion/Annie.jpg);
     background-size: 100%;
@@ -106,5 +113,30 @@ html {
 
 .Cassiopeia {
     background-image: url(../Image/Champion/Cassiopeia.jpg);
+    background-size: 100%;
+}
+
+.ChoGath {
+    background-image: url(../Image/Champion/Chogath.jpg);
+    background-size: 100%;
+}
+
+.Corki {
+    background-image: url(../Image/Champion/Corki.jpg);
+    background-size: 100%;
+}
+
+.Darius {
+    background-image: url(../Image/Champion/Darius.jpg);
+    background-size: 100%;
+}
+
+.Diana {
+    background-image: url(../Image/Champion/Diana.jpg);
+    background-size: 100%;
+}
+
+.DrMundo {
+    background-image: url(../Image/Champion/DrMundo.jpg);
     background-size: 100%;
 }
